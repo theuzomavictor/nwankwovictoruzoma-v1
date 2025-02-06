@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/articles/</loc>
+    <loc>http://localhost:44175/nwankwovictoruzoma-v1/articles/</loc>
     <lastmod>2025-02-06T18:20:46+01:00</lastmod>
   </url><url>
-    <loc>/articles/first/</loc>
+    <loc>http://localhost:44175/nwankwovictoruzoma-v1/articles/first/</loc>
     <lastmod>2025-02-06T18:20:46+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:44175/nwankwovictoruzoma-v1/</loc>
     <lastmod>2025-02-06T18:20:46+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:44175/nwankwovictoruzoma-v1/categories/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>http://localhost:44175/nwankwovictoruzoma-v1/projects/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:44175/nwankwovictoruzoma-v1/tags/</loc>
   </url>
 </urlset>
